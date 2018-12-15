@@ -8,6 +8,6 @@ namespace MovieLibrary.Models
     public class Movies
     {
         public int Id { get; set; }
-        public string MyProperty { get; set; }
+        public string MyPropertyTwo { get; set; }
     }
 }
